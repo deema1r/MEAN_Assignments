@@ -1,0 +1,27 @@
+body {
+    width: 970px;
+    background-color: rgb(214, 214, 214)
+}
+img {
+    height: 125px;
+    width: 225px;
+    margin: 2px;
+}
+form {
+    margin: 0 auto;
+}
+/* label, input, select {
+    display: inline-block;
+    margin: 14px 20px 0px 0px;
+} */
+.input {
+    display: block;
+    margin-bottom: 12px;
+}
+.btn { 
+    display: inline-block;
+    color: white;
+    background-color: rgb(0, 128, 100);
+    margin-top: 10px;
+    font-size: 11pt;
+}
